@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 134,
-                "Title": "这是钥匙 (任务开始)",
+                "Title": "钥匙在这。 (任务开始)",
                 "DialogColor": 392996,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -50,12 +50,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你做得很好， @p !
+    "DialogText": "你做得很好， @p ！
 
-地图把我们带到了这个地方。
-这附近一定有个暗门。
+地图的月光文字写过：‘当画眉鸟敲打的时候
+站在灰色的岩石旁边。
+落下的太阳藉着都灵之日的余晖。
+将会照耀在钥匙孔上’。
+所以这附近一定有个暗门。
 
-你还有甘道夫的钥匙吗？？
+你带着甘道夫给你的钥匙吗？？
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
